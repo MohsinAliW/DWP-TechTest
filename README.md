@@ -20,4 +20,4 @@ The solution has a GET rest endpoint. To return all users within 50 miles of Lon
 
 http://localhost:9090/users
 
-### Note: If the server does not start, then please use an IDE to start the server
+#### Note: If the server does not start, then please use an IDE to start the server
