@@ -1,2 +1,2 @@
 # DWP-TechTest
- DWP diggital technical test
+ DWP digital technical test
