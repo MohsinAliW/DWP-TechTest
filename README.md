@@ -5,10 +5,10 @@ Used Java and Spring Boot to build an API which calls the API at https://bpdts-t
 ## Building and Running
 To build the solution run the following commands from the root folder:
 
-'''mvn clean install'''
+```mvn clean install```
 
-'''java -jar target/dwp-digital-tech-test-0.0.1-SNAPSHOT.jar'''
+```java -jar target/dwp-digital-tech-test-0.0.1-SNAPSHOT.jar```
 
-The solution has a GET rest endpoint. To return all users within 50 miles of London:
+The solution has a GET rest endpoint. To return all users within 50 miles of London, go to:
 
 http://localhost:9090/users
