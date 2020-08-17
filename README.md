@@ -19,3 +19,5 @@ Run: ```java -jar target/technicaltest-0.0.1-SNAPSHOT.jar```
 The solution has a GET rest endpoint. To return all users within 50 miles of London, go to:
 
 http://localhost:9090/users
+
+### Note: If the server does not start, then please use an IDE to start the server
